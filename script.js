@@ -30,7 +30,6 @@ document.addEventListener('mouseout', () => {
     cursors[i].style.height = `30px`;
     cursors[i].style.top = `${dimentions[i][0]}%`;
     cursors[i].style.left = `${dimentions[i][1]}%`;
-    cursors[i].style.transform = 'rotate(360deg)';
   }
 });
 // the email operation
