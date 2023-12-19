@@ -240,8 +240,8 @@ body.div{
     #image-container {
         top: 5%;
         margin-left: 30%;
-        width: 200px; 
-        height: 200px; 
+        width: 400px; 
+        height: 400px; 
         position: absolute; 
         background: linear-gradient(0deg, white 0%, white 100%); 
         box-shadow: 0px 24px 116px rgba(145, 152, 163, 0.09); 
