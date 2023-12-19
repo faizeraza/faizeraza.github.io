@@ -258,8 +258,8 @@ body.div{
     }   
     .sub-4{
         left: 4%; 
-        margin-top: 80%;
-        width: 300px;
+        margin-top: 100%;
+        width: 400px;
         height: fit-content;
         position: relative ; 
         flex-direction: column; 
